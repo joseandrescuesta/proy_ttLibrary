@@ -1,0 +1,38 @@
+.encabezado {
+
+    background-color: #0d3b66;
+    color: white;
+    padding: 10px;
+    height: 15vh;
+}
+
+.logobiblos {
+    display: flex;
+    flex-direction: row;
+}
+
+.menuencabezado {
+    color: white;
+}
+
+
+.caja {
+    background-image: url("../img/publiclibrary.jpg");
+    background-color: #ee964b;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #0d3b66;
+    padding: 5%;
+    height: 50vh;
+}
+
+td {
+    text-align: center;
+}
+
+.contenedor {
+    background-color: white;
+    padding: 3%;
+    border-radius: 2%;
+    box-shadow: 0 0 20px rgba(25, 65, 130, 0.9);
+}

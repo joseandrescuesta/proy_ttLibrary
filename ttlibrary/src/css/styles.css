@@ -1,0 +1,23 @@
+th {
+    background-color: #0d3b66;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+tr:nth-child(2n) {
+    background-color: #faf0ca;
+}
+
+table {
+    background-color: white;
+    border-radius: 2%;
+    box-shadow: 0 0 20px rgba(25, 65, 130, 0.9);
+    font-size: small;
+}
